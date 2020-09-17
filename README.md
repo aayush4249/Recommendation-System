@@ -13,7 +13,7 @@ First lets take a look at user 610's current preferences for movies
 ![User 610 Ratings](https://github.com/aayush4249/Recommendation-System/blob/master/Images/Ratings.jpg)
 
 
-We get the idea that they enjoy genre's such as comedies, children's movies, etc.
+We get the idea that they enjoy genre's such as crime,comedies, children's movies, etc.
 Now using an 80% train and 20% test split we first have the SVD model fit the user-rating dataset. Next we have the model undergo matrix factorization and discover the latent factors which are then used to recommend unseen movies and predict their ratings.
 
 
