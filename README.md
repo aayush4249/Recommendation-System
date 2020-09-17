@@ -10,7 +10,7 @@ Ex: Recommendations for user 610
 
 First lets take a look at user 610's current preferences for movies
 
-![User 610 Ratings](https://github.com/aayush4249/AI-Data-Mining-and-Data-Visualization/blob/master/Images/Ratings.jpg)
+![User 610 Ratings](https://github.com/aayush4249/Recommendation-System/blob/master/Images/Ratings.jpg)
 
 
 We get the idea that they enjoy genre's such as comedies, children's movies, etc.
