@@ -14,7 +14,7 @@ First lets take a look at user 610's current preferences for movies
 
 
 We get the idea that they enjoy genre's such as comedies, children's movies, etc.
-Now lets have the recommendation system predict movies and their forecasted ratings.
+Now lets have the model predict ratings and use them to recommend movies.
 
 
 ![Recommender results](https://github.com/aayush4249/Recommendation-System/blob/master/Images/Predictions.jpg)
