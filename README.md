@@ -24,4 +24,4 @@ Interesting results, lets take a deeper dive and compare one of the predictions 
 
 ![Comparison](https://github.com/aayush4249/Recommendation-System/blob/master/Images/Similarity.jpg)
 
-So here we can see that the recommended movie Wallace & Gromit: The Wrong Trousers has the children and comedy genres associated with it, both of which the user enjoys. This tells us that the SVD model recognizes the children and comedy tags as factors and uses them in the recommendation process.
+If we take a look at some of the recommended movies, for example: "A Grand Day Out with Wallace and Gromit", "Wallace & Gromit: The Best of Aardman Animation", "L.A. Confidential", and "Office Space". We see the genres crime, adventure,  and comedy. All of which are prevalent genres in the user's seen top 10 movies. This tells us that the SVD model recognizes these genres as important latent factors and does a good job of accounting for them during the recommendation process..
