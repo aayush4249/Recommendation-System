@@ -17,11 +17,11 @@ We get the idea that they enjoy genre's such as comedies, children's movies, etc
 Now lets have the recommendation system predict movies and their forecasted ratings.
 
 
-![Recommender results](https://github.com/aayush4249/AI-Data-Mining-and-Data-Visualization/blob/master/Images/Predictions.jpg)
+![Recommender results](https://github.com/aayush4249/Recommendation-System/blob/master/Images/Predictions.jpg)
 
 
 Interesting results, lets take a deeper dive and compare one of the predictions against the user's preferences.
 
-![Comparison](https://github.com/aayush4249/AI-Data-Mining-and-Data-Visualization/blob/master/Images/Similarity.jpg)
+![Comparison](https://github.com/aayush4249/Recommendation-System/blob/master/Images/Similarity.jpg)
 
 So here we can see that the recommended movie Wallace & Gromit: The Wrong Trousers has the children and comedy genres associated with it, both of which the user enjoys. This tells us that the SVD model recognizes the children and comedy tags as factors and uses them in the recommendation process.
